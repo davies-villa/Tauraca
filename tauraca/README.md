@@ -7,3 +7,5 @@ Features
 ✅ Explore top travel destinations  
 ✅ Book flights, activities and hotels seamlessly  
 ✅ Read & share travel experiences via blogs  
+✅ Get real-time weather updates for your trip  
+✅ Interactive maps to navigate with ease  
